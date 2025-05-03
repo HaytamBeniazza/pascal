@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.o
+*.ppu
+*.a
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*~
+*.~*
+
+# Lazarus specific
+*.lps
+backup/
+lib/
+*.compiled
+
+# OS specific
+.DS_Store
+Thumbs.db 
